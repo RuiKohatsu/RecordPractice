@@ -6,7 +6,7 @@ public class AddressBook {
     String email;
 
 
-    public AddressBook(String name, String tel, String email, String address){
+    public AddressBook(String name, String tel, String email){
         this.name = name;
         this.tel = tel;
         this.email = email;

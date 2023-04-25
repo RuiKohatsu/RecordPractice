@@ -14,7 +14,7 @@ public class Account {
     }
 
     public String getAccountInfo(){
-        var account = "名前："+ name + "電話番号："+ tel + "Eメール："+ email + "住所："+ address;
+        var account = "名前："+ name + " 電話番号："+ tel + " Eメール："+ email + " 住所："+ address;
         return account;
     }
 }
