@@ -3,6 +3,8 @@ import oop2.User;
 
 import java.util.Arrays;
 public class SmartPhone {
+
+
     String model;
     String os;
     Account account;

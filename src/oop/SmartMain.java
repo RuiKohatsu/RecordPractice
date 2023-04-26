@@ -1,6 +1,6 @@
 package oop;
-import java.util.Arrays;
-public class Main {
+
+public class SmartMain {
     public static void main(String[] args) {
         AddressBook addressBook = new AddressBook("コハツ", "000-0000-0001", "aaa@gmail.com");
         AddressBook addressBook2 = new AddressBook("ヤマダ", "000-0000-0002", "bbb@gmail.com");
