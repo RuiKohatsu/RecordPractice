@@ -21,7 +21,7 @@ public class SmartPhone {
 
 
     public void displayMyAccount(){
-
+        System.out.println(this.account);
     }
 
 

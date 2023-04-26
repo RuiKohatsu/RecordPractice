@@ -23,8 +23,6 @@ public class Main {
 
         smartPhone.displayMyAccount();
 
-
-
         boolean bool = smartPhone.addAddressBook(addressBooks, addressBook);
         System.out.println(bool);
         boolean bool2 = smartPhone.addAddressBook(addressBooks, addressBook2);
